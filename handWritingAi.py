@@ -1,3 +1,5 @@
+# prepare the data from images to text before run the AI code
+
 import os
 import cv2
 
