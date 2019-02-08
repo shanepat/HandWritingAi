@@ -1,2 +1,2 @@
 # HandWritingAi
-Writing Ai to recognize number handwriting
+convert images to number AI
