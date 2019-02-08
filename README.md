@@ -1,2 +1,2 @@
 # HandWritingAi
-convert images to number AI
+Convert images to number AI
